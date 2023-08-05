@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "582d273a5e163972",
+    "type": "split",
+    "children": [
+      {
+        "id": "61aabba18ae9303c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce040df48bdb580",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd28582bebf2c9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Derivatives, Integrals and Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8375ab328a6a20a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "be80bc4cea9aa124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e7f99c258e3c02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed446e40405a3c46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09ebc5a26381c0ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e6ec50417d8e4fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff926335f39b2f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260d9245c9974eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Derivatives, Integrals and Vectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6015fad61bd3db10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Derivatives, Integrals and Vectors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a6d1886f8e40676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9c7f3a3abad7b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Derivatives, Integrals and Vectors.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd28582bebf2c9cc",
+  "lastOpenFiles": [
+    "README.md",
+    "1_mathematical_basics/assets/Pasted image 20230805192538.png",
+    "1_mathematical_basics/assets/Pasted image 20230805192417.png",
+    "1_mathematical_basics/assets/Pasted image 20230805191126.png",
+    "1_mathematical_basics/assets/Pasted image 20230805191018.png",
+    "1_mathematical_basics/assets/Pasted image 20230805191006.png",
+    "1_mathematical_basics/assets/Pasted image 20230805190950.png",
+    "1_mathematical_basics/assets/Pasted image 20230805190859.png",
+    "1_mathematical_basics/assets/Pasted image 20230805190835.png",
+    "1_mathematical_basics/assets/Pasted image 20230805185740.png",
+    "1_mathematical_basics/assets/Pasted image 20230805184617.png",
+    "1_mathematical_basics/assets",
+    "1 - Derivatives, Integrals and Vectors.md"
+  ]
+}
